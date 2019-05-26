@@ -1,6 +1,6 @@
 LULZDOS : DDoS TOOL
 
-DDoS is tool for takedown website or server. This DDoS tool combine from Hping3 and T50.
+Lulzddos is tool for takedown website or server. This DDoS tool combine from Hping3 and T50.
 
 need:<br>
 sudo gem install lolcat<br>
