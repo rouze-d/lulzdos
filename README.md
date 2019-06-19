@@ -13,5 +13,5 @@ usage:<br>
 ```
 sudo bash lulzdos.sh
 ```
-run as root
+run as root<br>
 <img src="https://github.com/rouze-d/lulzdos/blob/master/screen01.png" width="800" height="500"/>
