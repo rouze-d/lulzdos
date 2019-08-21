@@ -9,9 +9,7 @@ sudo apt install hping3 t50 gnome-terminal
 ```
 
 
-usage:<br>
+usage (run as root):<br>
 ```
 sudo bash lulzdos.sh
 ```
-run as root<br>
-<img src="https://github.com/rouze-d/lulzdos/blob/master/screen01.png" width="800" height="500"/>
